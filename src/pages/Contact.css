@@ -1,0 +1,10 @@
+.ul h1{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.ul{
+    width: 1000px;
+    height: 100%;
+    align-items: center;
+}

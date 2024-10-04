@@ -1,0 +1,15 @@
+.footer{
+    width: 2380px;
+    height: 100%;
+    border: 4px solid gray;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    color: black;
+    background-color: gray;
+}
+
+.footer-h1{
+    width: 270px;
+    height: 100%;
+}
+

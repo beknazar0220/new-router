@@ -1,0 +1,58 @@
+export const serviss = [
+    {
+      id: 1,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zEPuIFikgRyxDC7YwTNm9KCu7nWUVdoTGg&s",
+      sena: 499,
+      card: "купить",
+    },
+    {
+      id: 2,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVXQyngrJ1uusozV7kh1artUrTuc3L3hzTo9t8NB2ylUWoYQ8FrdicieyaUqBng4nISQ&usqp=CAU",
+      sena: 499,
+      card: "купить",
+    },
+    {
+      id: 3,
+      title: "Pizza",
+      image: "https://us.gozney.com/cdn/shop/articles/Sausage_and_Peppers_Pizza_Mike_Fitzick__pizza_jew.jpg?v=1647337119",
+      sena: 699,
+      card: "купить",
+    },
+    {
+      id: 4,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYxmzp0_-3TojUw_NoKLMbMF9CyZrYlP2Xw&s",
+      sena: 799,
+      card: "купить",
+    },
+    {
+      id: 5,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Aqy7kjjQbxmABSduzIg3uyh_TOOS0_GPGA&s",
+      sena: 499,
+      card: "купить",
+    },
+    {
+      id: 6,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NvZRYdaTNekF6fpFQeKympg8nXtQ_nImI2EcjGW8lsfkFZH2W_9wDdVFinHZbhNPK4A&usqp=CAU",
+      sena: 599,
+      card: "купить",
+    },
+    {
+      id: 7,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrz8f66U-IU8hFujqUeqB06jbkiZ1uVHu8dQ&s",
+      sena: 699,
+      card: "купить",
+    },
+    {
+      id: 8,
+      title: "Pizza",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1lpruKcy8C9rhAWKCcPOFuvToDRembz-oA&s",
+      sena: 499,
+      card: "купить",
+    },
+  ]

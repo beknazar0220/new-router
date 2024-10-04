@@ -1,0 +1,29 @@
+.figma{
+    margin-top: 150px;
+    font-size: 20px;
+    margin-left: 220px;
+    color: black;
+}
+
+.figma img{
+    width: 600px;
+    height: 400px;
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+.input{
+    display: flex;
+    height: 30px;
+    gap: 10px;
+}
+
+.input h4{
+    width: 60px;
+    height: 20px;
+    border-radius: 20px;
+    border: 4px solid blue;
+    background-color: blue;
+    color: white;
+    margin-top: 5px;
+}

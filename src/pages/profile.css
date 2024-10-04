@@ -1,0 +1,11 @@
+.pro{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    color: orange;
+}
+
+.pro img{
+    width: 400px;
+    height: 300px;
+    border:6px solid firebrick;
+}

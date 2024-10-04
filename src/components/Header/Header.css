@@ -1,0 +1,14 @@
+.header{
+    color: black;
+    width: 2380px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+.header ul{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-top: -80px;
+    margin-left: 400px;
+}
+

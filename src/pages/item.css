@@ -1,0 +1,9 @@
+.item{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.item img{
+    width: 300px;
+    height: 200px;
+}

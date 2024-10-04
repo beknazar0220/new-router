@@ -1,0 +1,32 @@
+.root{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.wrapper img{
+    width: 500px;
+    height: 400px;
+}
+
+.skidka{
+    position: absolute;
+    margin-top: -1000px;
+    margin-left: 10px;
+    background-color: red;
+    color: rgb(255, 200, 0);
+    font-weight: 600;
+    border-radius: 6px;
+}
+
+.box{
+    width: 500px;
+    height: 100%;
+}
+
+.green h2{
+    color: white;
+}
+
+.red h2{
+    color: red;
+}

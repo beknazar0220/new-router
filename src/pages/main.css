@@ -1,0 +1,9 @@
+.products{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.produc img{
+    width: 600px;
+    height: 500px;
+}

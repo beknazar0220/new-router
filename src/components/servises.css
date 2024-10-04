@@ -1,0 +1,9 @@
+.food-gl{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.food img{
+    width: 500px;
+    height: 400px;
+}
